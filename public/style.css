@@ -1,0 +1,43 @@
+/* Style the heading elements */
+h1 {
+    color: #ff5733; /* Set the text color to orange */
+    font-size: 36px; /* Set the font size to 36 pixels */
+    text-align: center; /* Center-align the text */
+    margin-bottom: 20px; /* Add some spacing below the heading */
+  }
+  
+  h2 {
+    font-size: 24px; /* Set the font size to 24 pixels */
+    text-align: center; /* Center-align the text */
+    margin-top: 0; /* Remove the default margin on top */
+  }
+  
+  /* Style the image */
+  img {
+    display: block; /* Make the image a block element */
+    margin: 0 auto; /* Center the image horizontally */
+    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+    height: auto; /* Maintain the aspect ratio */
+    margin-bottom: 20px; /* Add some spacing below the image */
+  }
+  
+  /* Style the list */
+  ul {
+    list-style-type: disc; /* Use disc bullets for list items */
+    margin-left: 20px; /* Add some indentation on the left side */
+    margin-bottom: 20px; /* Add some spacing below the list */
+  }
+  
+  li {
+    font-size: 18px; /* Set the font size to 18 pixels for list items */
+  }
+  
+  /* Style the map link */
+  a {
+    color: #0078d4; /* Set the text color to blue */
+    text-decoration: none; /* Remove underline from the link */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline the link on hover */
+  }
